@@ -2,7 +2,7 @@
 
 This repository has experiments from nuclear power plant (NPP) malfunctions considering the data created by the personal computer transient analyzer ([PCTRAN](http://www.microsimtech.com/pctran)), a PC-based nuclear power plant simulator.
 
-The NPP malfunctions are:
+To ensure the reproducibility of the experiments presented in this paper, all malfunction (failure) situations were simulated up to 10 minutes after their occurrence, considering the use of extreme parameters (1,000% of normal) to simulate critical conditions related to the problems that can occur at the power plant. The NPP malfunctions are:
 1) Loss of Coolant Accident (Hot Leg);
 2) Loss of Coolant Accident (Cold Leg);
 3) Steam Line Break Inside Containment;
