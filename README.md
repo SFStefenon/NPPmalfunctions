@@ -3,40 +3,35 @@
 This repository has experiments from nuclear power plant malfunctions considering the data created by the personal computer transient analyzer ([PCTRAN](http://www.microsimtech.com/pctran)), a PC-based nuclear power plant simulator.
  
 
-* Loss of Coolant Accident (Hot Leg)
-* Loss of Coolant Accident (Cold Leg)
-* Steam Line Break Inside Containment
+1 - Loss of Coolant Accident (Hot Leg)
 
-* 4 Steam Line Break Outside Containment
+2 - Loss of Coolant Accident (Cold Leg)
 
-* 5 Spark Presence for Hydrogen Burn
+3 - Steam Line Break Inside Containment
 
-* 6 Loss of AC Power
+4 - Steam Line Break Outside Containment
 
-* 7 Loss of Flow (Locked Rotor)
+5 - Spark Presence for Hydrogen Burn
 
-* 8 Anticipated Transient without Scram
+6 - Loss of AC Power
 
-* 9 Turbine Trip
+7 - Loss of Flow (Locked Rotor)
 
-* 10 Steam Generator A Tube Rupture
+8 - Anticipated Transient without Scram
 
-* 11 Steam Generator B Tube Rupture
+9 - Turbine Trip
 
-* 12 Rod withdrawal/Insertion
+10 - Steam Generator A Tube Rupture
 
-* 13 Reserved for future
-* 
+11 - Steam Generator B Tube Rupture
+
+12 - Rod withdrawal/Insertion
+
+13 - Reserved for future
 14 - Moderator Dilution
-
-> 15 Load Rejection
-
-> 16 Containment Failure or Spark for H2 Detonation
-
-> 17 Fuel Failure at Power
-
-> 18 Fuel Handling Accident in Containment
-
-> 19 Fuel Handling Accident in Auxiliary Building
-
-> 20 Letdown Line Break in Auxiliary Building
+15 - Load Rejection
+16 - Containment Failure or Spark for H2 Detonation
+17 - Fuel Failure at Power
+18 - Fuel Handling Accident in Containment
+19 - Fuel Handling Accident in Auxiliary Building
+20 - Letdown Line Break in Auxiliary Building
