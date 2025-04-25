@@ -1,0 +1,50 @@
+Reset to IC #1
+000000.5 sec, Malfunction # 6 Fraction = 00.0 %
+000001.5 sec, TDAFW Pump Position Change: 100%
+000001.5 sec, Condensate Pump #1 Position Change: 0%
+000002.0 sec, RCP-A trip
+000002.0 sec, RCP-B trip
+000002.0 sec, RCP #1 Capacity Change: 0%
+000002.0 sec, RCP #2 Capacity Change: 0%
+000002.0 sec, All MFW Pumps trip 
+000002.0 sec, Feed Pump #1 Position Change: 0%
+000002.0 sec, Feed Pump #2 Position Change: 0%
+000004.0 sec, Scram Low RC Flow 87.0 %
+0004.5 sec, Reactor Scram
+000006.5 sec, PZR Safety Relief Valve #0 Position Change: 100%
+000007.0 sec, PZR Safety Relief Valve #1 Position Change: 100%
+000011.0 sec, D/G A Starts 10.0 Sec Delay
+000016.5 sec, PZR Safety Relief Valve #1 Position Change: 0%
+000018.5 sec, PZR Safety Relief Valve #0 Position Change: 0%
+000181.5 sec, Safety Relief Valve #0 Position Change: 100%
+000181.5 sec, Safety Relief Valve #1 Position Change: 100%
+000217.5 sec, Safety Relief Valve #0 Position Change: 0%
+000217.5 sec, Safety Relief Valve #1 Position Change: 0%
+000244.0 sec, Safety Relief Valve #0 Position Change: 100%
+000244.0 sec, Safety Relief Valve #1 Position Change: 100%
+000278.5 sec, Safety Relief Valve #0 Position Change: 0%
+000278.5 sec, Safety Relief Valve #1 Position Change: 0%
+000305.5 sec, Safety Relief Valve #0 Position Change: 100%
+000305.5 sec, Safety Relief Valve #1 Position Change: 100%
+000338.5 sec, Safety Relief Valve #0 Position Change: 0%
+000338.5 sec, Safety Relief Valve #1 Position Change: 0%
+000366.5 sec, Safety Relief Valve #0 Position Change: 100%
+000366.5 sec, Safety Relief Valve #1 Position Change: 100%
+000397.5 sec, Safety Relief Valve #0 Position Change: 0%
+000397.5 sec, Safety Relief Valve #1 Position Change: 0%
+000426.0 sec, Safety Relief Valve #0 Position Change: 100%
+000426.0 sec, Safety Relief Valve #1 Position Change: 100%
+000455.5 sec, Safety Relief Valve #0 Position Change: 0%
+000455.5 sec, Safety Relief Valve #1 Position Change: 0%
+000485.0 sec, Safety Relief Valve #0 Position Change: 100%
+000485.0 sec, Safety Relief Valve #1 Position Change: 100%
+000513.0 sec, Safety Relief Valve #0 Position Change: 0%
+000513.0 sec, Safety Relief Valve #1 Position Change: 0%
+000543.5 sec, Safety Relief Valve #0 Position Change: 100%
+000543.5 sec, Safety Relief Valve #1 Position Change: 100%
+000570.5 sec, Safety Relief Valve #0 Position Change: 0%
+000570.5 sec, Safety Relief Valve #1 Position Change: 0%
+000603.0 sec, Safety Relief Valve #0 Position Change: 100%
+000603.0 sec, Safety Relief Valve #1 Position Change: 100%
+000629.0 sec, Safety Relief Valve #0 Position Change: 0%
+000629.0 sec, Safety Relief Valve #1 Position Change: 0%

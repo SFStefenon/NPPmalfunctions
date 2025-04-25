@@ -1,0 +1,21 @@
+Reset to IC #1
+000000.5 sec, Malfunction # 12 Fraction = 10.0 %
+000001.0 sec, Scram High Flux 118.0 %
+0001.5 sec, Reactor Scram
+000001.5 sec, Low SG Level 17.0 %
+000002.0 sec, Malfunction # 9 Fraction = 00.0 %
+000002.0 sec, MDAFW Pump #1 Position Change: 100%
+000002.0 sec, MDAFW Pump #2 Position Change: 100%
+000002.0 sec, TDAFW Pump Position Change: 100%
+000005.0 sec, PZR Safety Relief Valve #1 Position Change: 100%
+000005.5 sec, PZR Safety Relief Valve #0 Position Change: 100%
+000010.0 sec, PZR Safety Relief Valve #1 Position Change: 0%
+000010.5 sec, PZR Safety Relief Valve #0 Position Change: 0%
+000012.0 sec, Safety Relief Valve #0 Position Change: 100%
+000012.0 sec, Safety Relief Valve #1 Position Change: 100%
+000036.0 sec, Safety Relief Valve #0 Position Change: 0%
+000036.0 sec, Safety Relief Valve #1 Position Change: 0%
+000050.0 sec, HPSI start low RX Press 118.1 bar
+000050.0 sec, HPI Pump #1 Position Change: 100%
+000050.0 sec, HPI Pump #2 Position Change: 100%
+000050.0 sec, Ctmt Vent Valve #1 Position Change: 0%

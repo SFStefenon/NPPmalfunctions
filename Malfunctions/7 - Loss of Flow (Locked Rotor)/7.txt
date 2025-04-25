@@ -1,0 +1,7 @@
+Reset to IC #1
+000000.5 sec, Malfunction # 7 Fraction = 00.0 %
+000000.5 sec, RCP-A trip
+000000.5 sec, RCP #1 Capacity Change: 0%
+000001.0 sec, Scram Low RC Flow 87.0 %
+0001.5 sec, Reactor Scram
+000002.0 sec, Malfunction # 9 Fraction = 00.0 %

@@ -1,0 +1,14 @@
+Reset to IC #1
+000000.5 sec, Malfunction # 13 Fraction = 1000.0 %
+000006.5 sec, HPSI start high RB Press 1.30 bar
+000006.5 sec, HPI Pump #1 Position Change: 100%
+000006.5 sec, HPI Pump #2 Position Change: 100%
+000006.5 sec, Ctmt Vent Valve #1 Position Change: 0%
+000006.5 sec, RBS Pump #1 Position Change: 100%
+000006.5 sec, RBS Pump #2 Position Change: 100%
+000006.5 sec, Ctmt Spray Starts 1.3 bar
+0007.5 sec, Reactor Scram
+000008.0 sec, Malfunction # 9 Fraction = 00.0 %
+000246.0 sec, Fan Coolers Starts 9.9 bar
+000246.0 sec, RB Fan #1 Position Change: 100%
+000246.0 sec, RB Fan #2 Position Change: 100%

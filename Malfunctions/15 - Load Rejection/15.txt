@@ -1,0 +1,16 @@
+Reset to IC #1
+000000.5 sec, Malfunction # 15 Fraction = 1000.0 %
+000034.5 sec, Safety Relief Valve #0 Position Change: 100%
+000034.5 sec, Safety Relief Valve #1 Position Change: 100%
+000044.5 sec, Safety Relief Valve #2 Position Change: 100%
+000044.5 sec, Safety Relief Valve #3 Position Change: 100%
+000079.0 sec, FWIV #1 Position Change: 0%
+000083.0 sec, Low SG Level 17.0 %
+000083.5 sec, Scram Low SG Level 17.0 %
+000083.5 sec, MDAFW Pump #1 Position Change: 100%
+000083.5 sec, MDAFW Pump #2 Position Change: 100%
+0084.0 sec, Reactor Scram
+000101.0 sec, Safety Relief Valve #3 Position Change: 0%
+000101.5 sec, Safety Relief Valve #2 Position Change: 0%
+000140.0 sec, Safety Relief Valve #1 Position Change: 0%
+000140.5 sec, Safety Relief Valve #0 Position Change: 0%
