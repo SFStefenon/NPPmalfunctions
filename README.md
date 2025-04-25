@@ -3,9 +3,9 @@
 This repository has experiments from nuclear power plant malfunctions considering the data created by the personal computer transient analyzer ([PCTRAN](http://www.microsimtech.com/pctran)), a PC-based nuclear power plant simulator.
  
 
->1 Loss of Coolant Accident (Hot Leg)
->2 Loss of Coolant Accident (Cold Leg)
->3 Steam Line Break Inside Containment
+> 1 Loss of Coolant Accident (Hot Leg)
+> 2 Loss of Coolant Accident (Cold Leg)
+> 3 Steam Line Break Inside Containment
 
 >4 Steam Line Break Outside Containment
 
