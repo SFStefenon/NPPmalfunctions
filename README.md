@@ -23,3 +23,15 @@ The NPP malfunctions are:
 18) Fuel Handling Accident in Containment;
 19) Fuel Handling Accident in Auxiliary Building;
 20) Letdown Line Break in Auxiliary Building.
+
+---
+
+Thank you
+
+Dr. **Stefano Frizzo Stefenon**
+
+Postdoctoral fellow at the University of Regina
+
+Faculty of Engineering and Applied Sciences
+
+Regina, SK, Canada, 2025.
