@@ -26,8 +26,8 @@ This repository has experiments from nuclear power plant malfunctions considerin
 * 12 Rod withdrawal/Insertion
 
 * 13 Reserved for future
-
-> 14 Moderator Dilution
+* 
+14 - Moderator Dilution
 
 > 15 Load Rejection
 
