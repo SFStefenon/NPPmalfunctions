@@ -4,6 +4,7 @@ This repository has experiments from nuclear power plant malfunctions considerin
  
 
 1 - Loss of Coolant Accident (Hot Leg)
+
 2 - Loss of Coolant Accident (Cold Leg)
 
 3 - Steam Line Break Inside Containment
@@ -27,10 +28,17 @@ This repository has experiments from nuclear power plant malfunctions considerin
 12 - Rod withdrawal/Insertion
 
 13 - Reserved for future
+
 14 - Moderator Dilution
+
 15 - Load Rejection
+
 16 - Containment Failure or Spark for H2 Detonation
+
 17 - Fuel Failure at Power
+
 18 - Fuel Handling Accident in Containment
+
 19 - Fuel Handling Accident in Auxiliary Building
+
 20 - Letdown Line Break in Auxiliary Building
