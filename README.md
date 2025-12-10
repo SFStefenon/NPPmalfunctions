@@ -1,6 +1,6 @@
 # Nuclear Power Plant Malfunctions Analysis
 
-This repository has experiments from nuclear power plant (NPP) malfunctions, considering the data created by the personal computer transient analyzer ([PCTRAN](http://www.microsimtech.com/pctran)), a PC-based nuclear power plant simulator.
+This repository has experiments from nuclear power plant (NPP) malfunctions, considering the data created by the personal computer transient analyzer ([PCTRAN](https://www.microsimtech.com/pctran/default.htm)), a PC-based nuclear power plant simulator.
 
 ---
 
